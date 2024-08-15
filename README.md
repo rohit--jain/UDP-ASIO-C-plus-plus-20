@@ -1,2 +1,5 @@
-# Research into Packet Acknowledged and Congestion Controlled updated version of UDP Protocol
-I research and develop various versions of a updated version of UDP based on Google's version of Bottleneck Bandwidth Round-Trip time version for TCP
+# Basic UDP Protocol programming with Boost ASIO Networking Library using C++ 20 Co-Routines
+
+Prototype 1: 1 way messaging between Sender and Receiver over loopback interface
+
+Prototype 2: 2 way messaging between Sender and Receiver over loopback interface
